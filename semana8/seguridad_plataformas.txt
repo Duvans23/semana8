@@ -1,0 +1,5 @@
+- Cifrar la información almacenada y transmitida.
+- Establecer roles y permisos claros.  
+- Realizar copias de seguridad periódicas.  
+- Monitorear actividad sospechosa.  
+- Actualizar y auditar la plataforma regularmente.

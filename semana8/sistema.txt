@@ -1,0 +1,18 @@
+uname -a :
+Linux codespaces-ebc9e3 6.8.0-1052-azure #58~22.04.1-Ubuntu 
+SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+whoami: codespace
+
+
+
+
+Conocer información del sistema es fundamental cuando administras un servidor porque te 
+permite entender cómo está funcionando realmente la máquina que sostiene tu aplicación.
+Saber datos como el uso de CPU, memoria, espacio en disco, procesos activos o estado de la
+red te ayuda a detectar cuellos de botella antes de que causen fallas. También permite 
+identificar comportamientos anormales, como un proceso consumiendo demasiados recursos o
+un servicio que dejó de ejecutarse. Además, esta información es clave para planear
+mejoras, ajustar configuraciones y garantizar que el servidor pueda soportar la carga 
+de usuarios. En resumen, conocer el estado del sistema te da control, anticipación y 
+capacidad de respuesta para mantener la plataforma estable y confiable.

@@ -1,0 +1,3 @@
+1. Usar autenticación en dos pasos
+2. Evitar redes wifi publicas para información sencible
+3. Revisar permisos de aplicaciones
